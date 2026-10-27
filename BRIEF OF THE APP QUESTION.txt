@@ -1,0 +1,17 @@
+English correction: “Give me a brief, 10-line summary of all the content.”
+
+1. This project is a Java JDBC Bank Transfer Application that transfers money between two bank accounts.
+2. `BankTransfer.java` contains the Java code responsible for executing the transfer.
+3. JDBC (Java Database Connectivity) allows Java to communicate with a MySQL database.
+4. `bankdb.sql` creates the `bankdb` database and the `accounts` table.
+5. The table stores account IDs, account holder names, and account balances.
+6. The program takes the sender's ID, receiver's ID, and transfer amount as input.
+7. It validates the input and checks whether both accounts exist and the sender has sufficient funds.
+8. `PreparedStatement` executes SQL queries securely using parameters.
+9. Transactions use `commit()` to save successful transfers and `rollback()` to undo failed ones.
+10. MySQL Connector/J connects Java to MySQL, and GitHub stores the project's source code for sharing and version control.
+
+
+Name:= HARSHIL SHIVAM
+REGISTER NUMBER:= RA2511003010783
+SECTION:= M1
