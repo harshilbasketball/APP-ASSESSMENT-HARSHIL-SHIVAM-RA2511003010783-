@@ -1,5 +1,3 @@
-English correction: “Give me a brief, 10-line summary of all the content.”
-
 1. This project is a Java JDBC Bank Transfer Application that transfers money between two bank accounts.
 2. `BankTransfer.java` contains the Java code responsible for executing the transfer.
 3. JDBC (Java Database Connectivity) allows Java to communicate with a MySQL database.
